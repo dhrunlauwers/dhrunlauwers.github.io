@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Welcome to the blog!"
-date:   2020-09-24 15:33:05 -0400
-categories: introductions
+title: Hello World
+categories:
+- General
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 Hello world!
 
