@@ -84,7 +84,7 @@ Given the common operations required to clean data above, we can use the followi
 |Clean the data | `fillna()`, `dropna()`, `stack()`, `unstack()`, `groupby()` `explode()`|
 |Make clean data available | `to_csv()`, `to_sql()` |
 
-For more details on how to use these functions, take a look at the demonstration associated with this lesson.
+For examples of how to use these functions, stay tuned for the second part of this series.
 
 For a complete list of all functions, see Pandas documentation in the references section below.
 
