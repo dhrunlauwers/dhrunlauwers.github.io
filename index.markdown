@@ -12,7 +12,7 @@ Hello world!
 
 I decided it would be in my interest to build a simple blog. There are a couple of reasons for this: 
 1. I find putting my ideas into writing helps me think about problems and situations more clearly (and keeps me from forgetting important things)
-2. It seems like a fun way to build a portfolio of thoughts and experiments experiments to share with others
+2. It seems like a fun way to build a portfolio of thoughts and experiments to share with others
 3. I recently started school and have a bit of extra time to spend on side projects
 
 If you happen to stumble on this my blog in it's current state, my sincere apologies. 
