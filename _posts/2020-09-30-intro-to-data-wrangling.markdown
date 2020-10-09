@@ -8,7 +8,7 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 
 I had the opportunity to teach a few data science courses over the summer, and part of my interview was to see if I could teach a topic in 15 minutes. 
 
-This is only the first part of the lecture. The second part has a notebook with code samples, which I will be adding in a subsequent post.
+This is only the first part of the lecture. The second part has a notebook with code samples, which you can find on [github](https://github.com/dhrunlauwers/teaching-challenge/blob/master/lesson-material/demonstration.ipynb).
 
 <br>
 
@@ -51,9 +51,9 @@ Based on the characteristics of clean data above, we can identify some common op
 1. Read the data into a structured form
 2. Investigate the data to find potential problems
 3. Clean the data to fix the issues identified:
-    - Group or split rows and columns
-    - Fill in or remove missing values
-    - Remove outliers or unusual observations where appropriate
+    * Group or split rows and columns
+    * Fill in or remove missing values
+    * Remove outliers or unusual observations where appropriate
 4. Make clean data available for analysis or other purposes
 
 ## What is Pandas?
