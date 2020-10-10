@@ -11,7 +11,7 @@ feature_text: |
 Hello world!
 
 I decided it would be in my interest to build a simple blog. There are a couple of reasons for this: 
-1. Putting deas into writing helps me think about problems and situations more clearly (and keeps me from forgetting important things)
+1. Putting ideas into writing helps me think about problems and situations more clearly (and keeps me from forgetting important things)
 2. It seems like a fun way to build a portfolio of thoughts and experiments to share with others
 3. I recently started school and have a bit of extra time to spend on side projects
 
