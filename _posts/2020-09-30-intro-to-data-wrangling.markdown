@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intro to Data Wrangling with Python and Pandas - Part 1
+title: Intro to Data Wrangling with Python and Pandas
 categories:
 - General
 feature_image: "https://picsum.photos/2560/600?image=872"
