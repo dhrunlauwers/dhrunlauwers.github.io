@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "../images/cabin.png"
 ---
 
 A few sentences about my professional and personal life.

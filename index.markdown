@@ -4,7 +4,7 @@
 
 title: A place to keep track of my thoughts
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "../images/distant-mountains.png"
 feature_text: |
   ## Welcome!
 ---
