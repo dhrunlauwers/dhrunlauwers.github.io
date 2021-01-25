@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Hello World
-categories:
-- General
-feature_image: "/images/cabin.png"
+title: A place to keep track of my thoughts
+layout: page
+feature_image: "../images/banners/distant-mountains.png"
+feature_text: |
+  ## Welcome!
 ---
 Hello world!
 

@@ -3,7 +3,7 @@ layout: post
 title: Intro to Data Wrangling with Python and Pandas
 categories:
 - General
-feature_image: "/images/hillside-chapel.png"
+feature_image: "/images/banners/hillside-chapel.png"
 ---
 
 I had the opportunity to teach a few data science courses over the summer, and part of my interview was to see if I could teach a topic in 15 minutes. 
@@ -14,7 +14,7 @@ This is only the first part of the lecture. The second part has a notebook with 
 
 ## What is data wrangling?
 
-![](/images/wrangler.jpg)
+![](/images/pandas/wrangler.jpg)
 
 In North America, a **wrangler** is someone who is employed to handle animals professionally, especially horses. They would round up and take care of the cattle for ranchers and cowboys to use.
 
@@ -30,7 +30,7 @@ Data sources used in academics tend to be pre-processed and much cleaner than da
 
 Data preparation is not just a first step, but must be repeated many times over the course of analysis as new problems come to light or new data is collected.
 
-<img src="/images/real-data.jpg" width="300" height="300">
+<img src="/images/pandas/real-data.jpg" width="300" height="300">
 
 ## What is clean data?
 
@@ -57,7 +57,7 @@ Based on the characteristics of clean data above, we can identify some common op
 4. Make clean data available for analysis or other purposes
 
 ## What is Pandas?
-![](/images/pandas.jfif)
+![](/images/pandas/pandas.jfif)
 
 Pandas is the most widely used data analysis library created for Python, and it has many built-in functions that will help with data analysis, including cleaning data.
 
@@ -71,7 +71,7 @@ Pandas allows us to store our data in different data structures represented by P
 1. Series: A one-dimensional array of data with labels. 
 2. DataFrame: A two-dimensional array of data with labelled rows and columns.
 
-![](/images/series-and-dataframe.png)
+![](/images/pandas/series-and-dataframe.png)
 
 ### Common functions
 

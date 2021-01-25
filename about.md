@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-feature_image: "../images/rooftops.png"
+feature_image: "../images/banners/rooftops.png"
 ---
 
 A few sentences about my professional and personal life.

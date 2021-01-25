@@ -1,12 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-title: A place to keep track of my thoughts
-layout: page
-feature_image: "../images/distant-mountains.png"
-feature_text: |
-  ## Welcome!
+layout: post
+title: Hello World
+categories:
+- General
+feature_image: "/images/banners/cabin.png"
 ---
 Hello world!
 

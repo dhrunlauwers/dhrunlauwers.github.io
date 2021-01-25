@@ -3,7 +3,7 @@ layout: post
 title: Portfolio Optimization with Linear Algebra using Python
 categories:
 - General
-feature_image: "/images/seagull.png"
+feature_image: "/images/banners/seagull.png"
 ---
 
 The more I learn about linear algebra, the more it brings together the things I enjoy. In this case, it's portfolio management. Specifically, finding the optimal asset allocation among a set of potential candidates.

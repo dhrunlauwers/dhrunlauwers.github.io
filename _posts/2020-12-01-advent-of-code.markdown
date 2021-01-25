@@ -3,7 +3,7 @@ layout: post
 title: The Advent of Code
 categories:
 - General
-feature_image: "/images/christmas.png"
+feature_image: "/images/banners/christmas.png"
 ---
 
 The Advent of Code is upon us! A short post to call attention to this wonderful series of daily code problems in the form of an advent calendar. It's a great way to learn how to code in any language.

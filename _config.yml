@@ -1,33 +1,36 @@
 # Set theme
-theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic@main
 
 # File excludes
 exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
+- README.md
+- Gemfile
+- Gemfile.lock
 
 # Set plugins
 plugins:
-  - jekyll-sitemap
-  - jekyll-mentions
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-redirect-from
-  - jekyll-default-layout
-  - jekyll-feed
-  - jemoji
-  - jekyll-remote-theme
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+- jekyll-remote-theme
 
 # Site settings
-url: "https://dhrunlauwers.github.io"
+url: 'https://dhrunlauwers.github.io'
 baseurl: ''
-title: 'Dhrun Lauwers'
-github_username:  dhrunlauwers
-email: dhrun.lauwers@gmail.com
-description: 'This is my first attempt at a personal blog slash portfolio. Be gentle.'
+title: 'Dhrun Lauwers - Home'
+description: 'A collection of thoughts and ideas'
 permalink: pretty
-logo: "/icon_dhrun.png"
+logo: "/images/icon_dhrun.png"
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
@@ -48,5 +51,20 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "My thoughts and ideas"
-    feature_image: "../images/hillside-chapel.png"
+    description: "A collection of thoughts and ideas"
+    feature_image: "/images/banners/walkway-skyline.png"
+
+# Collection settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post # Set the default layout for posts
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages
