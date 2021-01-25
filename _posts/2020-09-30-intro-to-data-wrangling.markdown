@@ -3,7 +3,7 @@ layout: post
 title: Intro to Data Wrangling with Python and Pandas
 categories:
 - General
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "/images/hillside-chapel.png"
 ---
 
 I had the opportunity to teach a few data science courses over the summer, and part of my interview was to see if I could teach a topic in 15 minutes. 

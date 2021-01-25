@@ -3,7 +3,7 @@ layout: post
 title: Hello World
 categories:
 - General
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "/images/cabin.png"
 ---
 Hello world!
 
