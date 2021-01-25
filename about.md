@@ -13,7 +13,7 @@ I've worked in many different functions over the past few years that might seem 
 - Trying out different solutions until I either succeed or run out of ideas
 - Reflecting on why something did or did not work, and trying to do better next time
 
-If you really want to see exactly what I've been up to, check out my [resume](../downloads/dhrun_resume.pdf).
+If you really want to see exactly what I've been up to, check out my [resume](https://github.com/dhrunlauwers/dhrunlauwers.github.io/raw/master/downloads/dhrun_resume.pdf).
 
 #### Personal life
 I was born in Belgium, and I have been living in Toronto for more than 20 years. I like to spend my free time with family and friends, as well as side projects like this very website.
