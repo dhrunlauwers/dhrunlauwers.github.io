@@ -18,6 +18,4 @@ If you really want to see exactly what I've been up to, check out my [resume](ht
 #### Personal life
 I was born in Belgium, and I have been living in Toronto for more than 20 years. I like to spend my free time with family and friends, as well as side projects like this very website.
 
-I've also been fortunate enough to have done quite a bit of traveling, which is something I really enjoy.
-
-I hope to share a post with some travel pictures soon, which I will link to here.
+I've been fortunate enough to have done a bit of traveling, which is something I really enjoy. Along the way, I like taking pictures to help me capture and appreciate the experience. 
