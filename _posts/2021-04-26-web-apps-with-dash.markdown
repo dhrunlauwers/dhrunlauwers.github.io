@@ -6,11 +6,11 @@ categories:
 feature_image: "/images/banners/trees.jpg"
 ---
 
-One of my instructors from last suggested that I try to take the example from [my previous post](https://dhrunlauwers.github.io/general/2020/10/31/everything-is-portfolio-optimization/) and turn it into an interactive application with [Dash](https://dash.plotly.com).
+One of my instructors from last semester suggested that I try to take the example from [my previous post](https://dhrunlauwers.github.io/general/2020/10/31/everything-is-portfolio-optimization/) and turn it into an interactive application with [Dash](https://dash.plotly.com).
 
 I'm working on a post to share my experience, so come back soon if you are intersted in the topics in the outline below. 
 
-Final results are available [here](https://dhrunlauwers.pythonanywhere.com).
+For now, the final results are available [here](https://dhrunlauwers.pythonanywhere.com).
 
 <br>
 
